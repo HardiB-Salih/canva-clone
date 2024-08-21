@@ -1,6 +1,6 @@
 "use client";
 
-import { useEditor } from "@/features/editor/hooks/useEditor";
+import { useEditor } from "@/features/editor/hooks/use-editor";
 import { useEffect, useRef } from "react";
 import { fabric } from "fabric";
 
